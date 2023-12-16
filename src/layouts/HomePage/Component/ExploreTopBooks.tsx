@@ -5,7 +5,7 @@ export const ExploreTopBooks = () => {
                 d-flex justify-content-center align-items-center'>
                 <div>
                     <h1 className='display-5 fw-bold'>Find your next adventure</h1>
-                    <p className='col-md-8 fs-4'>Where would you like to go next?</p>
+                    <p className='col-md-9 fs-3'>Where would you like to go next?</p>
                     <a type='button' className='btn main-color btn-lg text-white'href='#'>Explore top books</a>
                 </div>
             </div>
